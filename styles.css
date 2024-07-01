@@ -1,0 +1,33 @@
+body {
+    background-color: #84c1ff;
+}
+
+#nav {
+    background-color: rgb(23, 75, 143);
+    margin-bottom: 40px;
+}
+
+.menu { 
+    padding: 50px;
+    border-radius: 20px;
+    background-color: rgb(23, 75, 143);
+}
+
+#scheduleContent, #boletinContent {
+    margin-top: 20px;
+}
+
+.schedule-item, .boletin-item {
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+
+
+
+#subjectForm, #boletinForm {
+    flex: 1;
+    margin-left: 20px;
+}
